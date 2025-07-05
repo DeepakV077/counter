@@ -86,3 +86,21 @@ p {
     font-size: 1.2em;
     border-radius: 8px;
 }
+@media screen and (max-width: 800px) {
+    .container {
+        padding: 20px;
+    }
+    .counter-value {
+        font-size: 2em;
+    }
+    button {
+        width: 100%;
+        padding: 15px;
+        font-size: 1.1em;
+    }
+    .button-group {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+}
