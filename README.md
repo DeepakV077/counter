@@ -16,6 +16,7 @@ Built without any frameworks or libraries
 
 ---
 🧑‍💻 Tech Stack
+
 HTML – Page structure
 
 CSS – Styling and layout
