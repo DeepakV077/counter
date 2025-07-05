@@ -5,6 +5,7 @@ A simple web-based counter application that lets users increment, decrement, and
 ---
 
 **🚀 Features**
+
 Increment counter with + button
 
 Decrement counter with – button (no negative values)
@@ -27,6 +28,7 @@ JavaScript – Logic and interactivity
 
 ---
 **👶 Who This Is For**
+
 Beginners learning DOM manipulation
 
 Students building interactive web projects
@@ -35,6 +37,7 @@ Anyone who wants to practice button handling and event listeners
 
 ---
 **🧠 What You’ll Learn**
+
 How to use addEventListener() for button clicks
 
 How to update HTML content using innerHTML
